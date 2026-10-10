@@ -134,7 +134,7 @@ ArcadeRacer2D
 ## Clone
 
 ```bash
-git clone https://github.com/rishee01/arcade-racer-2d.git
+git clone https://github.com/rishee-dev/arcade-racer-2d-Public.git
 ```
 
 ## Enter Project
